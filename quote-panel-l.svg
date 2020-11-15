@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="quote-panel.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <g
+     id="g836"
+     style="opacity:0.888;fill:#ffffff"
+     transform="matrix(0.9488039,0,0,0.9488039,-2.0395839,-6.559209)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.828901"
+       d="M 5.829614,9.0210517 A 1.5720591,1.7482508 0 0 0 4.2575541,10.769303 v 0.874124 1.748252 H 5.829614 V 11.643427 H 5.0435829 V 10.769303 A 0.78602944,0.87412536 0 0 1 5.829614,9.8951763 Z m 3.144118,0 A 1.5720591,1.7482508 0 0 0 7.401673,10.769303 v 0.874124 1.748252 H 8.973732 V 11.643427 H 8.187703 V 10.769303 A 0.78602944,0.87412536 0 0 1 8.973732,9.8951763 Z"
+       class="ColorScheme-Text"
+       id="path832" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.828901"
+       d="m 17.401672,13.391679 a 1.5720591,1.7482508 0 0 0 1.57206,-1.748251 V 10.769304 9.0210517 h -1.57206 v 1.7482523 h 0.786031 v 0.874124 a 0.78602944,0.87412536 0 0 1 -0.786031,0.874126 z m -3.144118,0 a 1.5720591,1.7482508 0 0 0 1.572059,-1.748251 V 10.769304 9.0210517 h -1.572059 v 1.7482523 h 0.786029 v 0.874124 a 0.78602944,0.87412536 0 0 1 -0.786029,0.874126 z"
+       class="ColorScheme-Text"
+       id="path833" />
+  </g>
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="9.8295455"
+     inkscape:cx="2.0226954"
+     inkscape:cy="12.822662"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#eff0f1;
+      }
+      </style>
+  </defs>
+</svg>

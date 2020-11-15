@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="discord-panel.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="820"
+     inkscape:window-height="480"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="3.0547013"
+     inkscape:cx="28.375572"
+     inkscape:cy="25.786737"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5"
+     inkscape:document-rotation="0" />
+  <path
+     d="M 41.625,4.77 C 37.645,1.566 31.348,1.023 31.078,1.004 A 0.992,0.992 0 0 0 30.09,1.59 6.63,6.63 0 0 0 29.785,2.422 c 2.633,0.445 5.867,1.34 8.793,3.156 a 1.0003781,1.0003781 0 1 1 -1.055,1.7 C 32.493,4.155 26.211,4 25,4 23.79,4 17.504,4.156 12.477,7.277 a 1.0003781,1.0003781 0 0 1 -1.055,-1.7 C 14.348,3.766 17.582,2.867 20.215,2.426 20.063,1.93 19.925,1.617 19.915,1.59 A 0.987,0.987 0 0 0 18.922,1.004 C 18.652,1.024 12.355,1.566 8.32,4.813 6.215,6.761 2,18.152 2,28 c 0,0.176 0.047,0.344 0.133,0.496 2.906,5.11 10.84,6.445 12.648,6.504 h 0.031 a 1,1 0 0 0 0.81,-0.41 l 1.827,-2.516 C 12.516,30.801 9.996,28.637 9.852,28.508 a 1.0003719,1.0003719 0 1 1 1.324,-1.5 C 11.234,27.063 15.875,31 25,31 c 9.14,0 13.781,-3.953 13.828,-3.992 a 1,1 0 0 1 1.41,0.094 0.996,0.996 0 0 1 -0.09,1.406 c -0.144,0.129 -2.664,2.293 -7.597,3.566 l 1.828,2.516 A 1,1 0 0 0 35.188,35 h 0.03 c 1.81,-0.059 9.743,-1.395 12.65,-6.504 C 47.953,28.344 48,28.176 48,28 48,18.152 43.785,6.762 41.625,4.77 Z M 18.5,24 C 16.566,24 15,22.21 15,20 c 0,-2.21 1.566,-4 3.5,-4 1.934,0 3.5,1.79 3.5,4 0,2.21 -1.566,4 -3.5,4 z m 13,0 C 29.566,24 28,22.21 28,20 c 0,-2.21 1.566,-4 3.5,-4 1.934,0 3.5,1.79 3.5,4 0,2.21 -1.566,4 -3.5,4 z"
+     id="surface1"
+     style="fill:#ffffff" />
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <rdf:Description
+         about="https://iconscout.com/legal#licenses"
+         dc:title="discord,filled"
+         dc:description="discord,filled"
+         dc:publisher="Iconscout"
+         dc:date="2017-12-09"
+         dc:format="image/svg+xml"
+         dc:language="en">
+        <dc:creator>
+          <rdf:Bag>
+            <rdf:li>Icons8</rdf:li>
+          </rdf:Bag>
+        </dc:creator>
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
